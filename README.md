@@ -1,2 +1,2 @@
 # iosworkshop
-Repor oficial del Workshop para aprender iOS Development with Swift
+Repo oficial del Workshop para aprender iOS Development with Swift
