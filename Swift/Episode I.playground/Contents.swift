@@ -1,6 +1,6 @@
 //: Playground - noun: a place where people can play
 
-import UIKit
+
 
 //Declaracion de variable y inferencia de tipo
 var str = "iOS Workshop Episode I"
@@ -174,6 +174,7 @@ class Washer: CarWashProtocol{
 }
 
 
+import UIKit
 
 let redSquare = UIView(frame: CGRect(x: 0, y: 0, width: 44, height: 44))
 redSquare.backgroundColor = UIColor.redColor()
